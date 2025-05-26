@@ -17,7 +17,6 @@ React Webcam - Webcam component for React
 Tailwind CSS - Utility-first CSS framework
 
 # Installation
-git clone https://github.com/yourusername
 cd nextjs-ai-object-detection
 
 # Install dependencies
